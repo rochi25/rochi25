@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rosalen Hernández 
-- 👀 I’m interested in a remote job as software tester
-- 🌱 I’m currently learning software testing
+- 👀 I’m interested in a remote job as a software tester
 - 💞️ I’m looking to collaborate on different proyects 
+ 
 
 
 <!---
