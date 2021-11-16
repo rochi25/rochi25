@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rosalen Hernández 
-- 👀 I’m interested in a remote job as a software tester
-- 💞️ I’m looking to collaborate on different proyects 
+<h3> 👋 Hi, I’m Rosalen Hernández </h3>
+- 👀 I’m looking to collaborate on different proyects. 
+
  
 
 
