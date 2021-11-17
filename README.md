@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m Rosalen Hernández </h2>
+<h2> 👋 Hi, I’m Rosalén Hernández </h2>
 - 👀 I’m looking to collaborate on different proyects. 
 
 <h3></h3>
