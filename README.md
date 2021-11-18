@@ -21,7 +21,8 @@
 
 
 <h4>-Where to find me:</h4>
-www.linkedin.com/in/rosalén-hernández <hr>
+www.linkedin.com/in/rosalén-hernández 
+rosalenhernandez0@gmail.com <hr>
 
 
 
