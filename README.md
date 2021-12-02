@@ -1,4 +1,6 @@
-<h2> 👋 Hi, I’m Rosalén Hernández </h2>
+<div><h2> 👋 Hi, I’m Rosalén Hernández </h2>
+<h3> QA Tester </h3></div>
+<hr>
 - 👀 I’m looking to collaborate on different proyects. 
 
 <h3></h3>
