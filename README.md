@@ -8,8 +8,8 @@
 <h3></h3>
 <h3>My Skills</h3>
 -Requirements Analysis.<br>
--Test Case designs.<br>
--Bug reports.<br>
+-Test cases designs.<br>
+-Bug and improvements reports.<br>
 -Scrum Knowledge.<br>
 -API rest test.<br>
 -SQL<br>
@@ -17,8 +17,8 @@
 -Smoke testing.<br>
 -Exploratory testing.<br>
 -Equivalence classes and limit values.<br>
--Trello, Testlink, Postman, MySql Workbench, Genymotion, JIRA.
-
+-Trello, Testlink, Postman, MySql Workbench, Genymotion, JIRA.<br>
+-JavaScript, HTML, CSS.
 
 
 
