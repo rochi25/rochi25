@@ -1,6 +1,6 @@
 <div><h2> 👋 Hi, I’m Rosalén Hernández </h2>
  <h3> QA Tester </h3>
- <h5>With knolowdge of <em>JavaScript, HTML and CSS</h5>
+ <h5>With knowledge of <em>JavaScript, HTML and CSS</h5>
 </div>
 <hr>
 - 👀 I’m looking to collaborate on different proyects. 
