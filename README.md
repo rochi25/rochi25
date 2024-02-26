@@ -1,14 +1,13 @@
 <div><h2> 👋 Hi, I’m Rosalén Hernández </h2>
- <h3> QA Tester </h3>
- <h5>With knowledge of <em>JavaScript, HTML and CSS</h5>
+ <h3> QA Engineer </h3>
+ <h5>With 2 years of experience in the CRM area, in the video games industry.</h5>
 </div>
 <hr>
-- 👀 I’m looking to collaborate on different proyects. 
 
 <h3></h3>
 <h3>My Skills</h3>
 -Requirements Analysis.<br>
--Test cases designs.<br>
+-Test case designs.<br>
 -Bug and improvements reports.<br>
 -Scrum Knowledge.<br>
 -API rest test.<br>
@@ -17,8 +16,8 @@
 -Smoke testing.<br>
 -Exploratory testing.<br>
 -Equivalence classes and limit values.<br>
--Trello, Testlink, Postman, MySql Workbench, Genymotion, JIRA.<br>
--JavaScript, HTML, CSS.
+-Trello, Testlink, Testrail, Postman, MySql Workbench, Databricks, Charles Proxy, JIRA.<br>
+-JavaScript, Python, HTML, CSS.
 
 
 
