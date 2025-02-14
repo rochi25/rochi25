@@ -1,6 +1,6 @@
 <div><h2> 👋 Hi, I’m Rosalén Hernández </h2>
  <h3> QA Engineer </h3>
- <h5>With 2 years of experience in the CRM area, in the video games industry.</h5>
+ <h5>With 3 years of experience in the CRM area.</h5>
 </div>
 <hr>
 
